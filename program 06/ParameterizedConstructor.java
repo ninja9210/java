@@ -1,7 +1,6 @@
 class ParameterizedConstructor {
     int sum;
 
-    // Parameterized Constructor
     ParameterizedConstructor(int a, int b) {
         sum = a + b;
         System.out.println("This is a Parameterized Constructor");
