@@ -4,7 +4,6 @@ public class Factorial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // यूजर से नंबर इनपुट लेना
         System.out.print("Enter the value of n: ");
         int n = sc.nextInt();
 
