@@ -18,7 +18,7 @@ This repository contains various Java programs organized into different folders.
 
 5. **Package Example**
    - [B.java](https://github.com/ninja9210/java/blob/main/program%2005/B.java)
-   - [A.java](https://github.com/ninja9210/java/blob/main/BCA/A.java)
+   - [A.java](https://github.com/ninja9210/java/blob/main/program%2005/BCA/A.java)
 
 6. **Constructors**
    - [DefaultConstructor.java](https://github.com/ninja9210/java/blob/main/program%2006/DefaultCunstructor.java)
